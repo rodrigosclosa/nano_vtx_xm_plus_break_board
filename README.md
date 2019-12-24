@@ -9,10 +9,8 @@ You can order this at www.jlcpcb.com
 
 # Image Preview
 
-![](https://drive.google.com/open?id=1iUUcXs84tWPbQuerP0Vjx0s_0JtEAke5/preview)
+![](https://github.com/rodrigosclosa/nano_vtx_xm_plus_break_board/raw/master/nano_vtx_breaking_board.PNG)
 
-![](https://drive.google.com/open?id=1LIeeWNcX6xUaKdaF0efx-c5U-BY1OxVp/preview)
+![](https://github.com/rodrigosclosa/nano_vtx_xm_plus_break_board/raw/master/nano_vtx_breaking_board_1.PNG)
 
-![](https://drive.google.com/file/d/1T_V0PN309J-p8Q6CPHZrkdQEzRxZ1-7k/preview)
-
-<iframe src="https://drive.google.com/file/d/1T_V0PN309J-p8Q6CPHZrkdQEzRxZ1-7k/preview" width="640" height="480"></iframe>
+![](https://github.com/rodrigosclosa/nano_vtx_xm_plus_break_board/raw/master/nano_vtx_breaking_board_2.PNG)
