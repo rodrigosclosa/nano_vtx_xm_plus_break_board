@@ -14,3 +14,11 @@ Download the .zip file [here](https://github.com/rodrigosclosa/nano_vtx_xm_plus_
 ![](https://github.com/rodrigosclosa/nano_vtx_xm_plus_break_board/raw/master/nano_vtx_breaking_board_1.PNG)
 
 ![](https://github.com/rodrigosclosa/nano_vtx_xm_plus_break_board/raw/master/nano_vtx_breaking_board_2.PNG)
+
+# Links
+
+[My Thingiverse Profile with many designs for Toothpicks and Drones](https://www.thingiverse.com/rodrigo_sclosa/about)
+
+[My Instagram](http://instagram.com/rodrigo_sclosa)
+
+[Brazuca Drones](http://instagram.com/brazucadrones)
