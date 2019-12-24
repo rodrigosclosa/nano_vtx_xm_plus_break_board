@@ -5,7 +5,7 @@ You can use the pinout for others Nano VTX and other receivers too like the FlyS
 
 Put a good Thermal Adhesive Tape between VTX and the coper exposed to get a good heat dissipation.
 
-You can order this at www.jlcpcb.com
+Download the .zip file [here](https://github.com/rodrigosclosa/nano_vtx_xm_plus_break_board/raw/master/Nano_VTX_XM_Plus_2019-12-24.zip) and order it at www.jlcpcb.com
 
 # Image Preview
 
